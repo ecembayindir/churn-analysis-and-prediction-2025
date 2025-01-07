@@ -4,17 +4,17 @@
 
 <h2>🚀 <strong>Project Overview</strong></h2>
 <p>
-This project focuses on analysing customer churn for a business using a data-driven approach. Leveraging <strong>SQL Server</strong>, <strong>Tableau</strong>, and <strong>Python</strong>, I developed a comprehensive solution to identify churn drivers and predict churn probability, providing actionable insights to reduce customer attrition.
+This project delves into customer churn analysis for a business using a data-driven approach. Leveraging structured customer data, I analysed key features such as demographics, services, contract types, and financial metrics to identify churn drivers and predict churn probability. By combining <strong>SQL Server</strong>, <strong>Tableau</strong>, and <strong>Python</strong>, I developed an end-to-end solution that offers actionable insights to reduce customer attrition.
 </p>
 
 <h2>📈 <strong>Project Workflow</strong></h2>
 <ul>
-  <li><strong>ETL Process in SQL Server</strong>: Extracted data from various sources, transformed it for analysis, and loaded it into SQL Server.</li>
-  <li><strong>Data Cleaning in SQL Server</strong>: Ensured data quality by handling missing values, duplicates, and inconsistencies.</li>
-  <li><strong>Transformations in Tableau</strong>: Prepared and optimized data for advanced visualizations and analyses.</li>
-  <li><strong>Visualization and Insights in Tableau</strong>: Created interactive dashboards to display churn trends and business-critical metrics.</li>
-  <li><strong>Machine Learning Model in Python</strong>: Built and trained a Random Forest model in PyCharm to predict churn probability.</li>
-  <li><strong>Predicted Data Visualization in Tableau</strong>: Integrated model outputs into Tableau to visualize churn predictions.</li>
+  <li><strong>ETL Process in SQL Server</strong>: Extracted and transformed customer data for analysis. Key columns such as <code>Churn_Category</code> and <code>Churn_Reason</code> were analysed to determine the primary churn drivers.</li>
+  <li><strong>Data Cleaning in SQL Server</strong>: Ensured data quality by addressing missing values and inconsistencies in fields like <code>Monthly_Charge</code> and <code>Total_Charges</code>.</li>
+  <li><strong>Transformations in Tableau</strong>: Prepared and optimized data for advanced visualizations to understand churn trends across demographics, contract types, and usage metrics.</li>
+  <li><strong>Visualization and Insights in Tableau</strong>: Created dashboards to visualise churn patterns, allowing stakeholders to prioritise retention efforts.</li>
+  <li><strong>Machine Learning Model in Python</strong>: Built and trained a <strong>Random Forest model</strong> to predict churn probability using features like <code>Tenure_in_Months</code>, <code>Payment_Method</code>, and <code>Internet_Type</code>.</li>
+  <li><strong>Predicted Data Visualization in Tableau</strong>: Integrated model predictions into Tableau for enhanced decision-making and insights.</li>
 </ul>
 
 <div align="center">
@@ -29,10 +29,10 @@ This project focuses on analysing customer churn for a business using a data-dri
 
 <h2>📊 <strong>Key Insights</strong></h2>
 <ul>
-  <li>Identified key factors contributing to customer churn using SQL and Tableau.</li>
-  <li>Developed a Random Forest model with high accuracy for churn prediction.</li>
-  <li>Interactive Tableau dashboards provide actionable insights for decision-making.</li>
-  <li>Visualized churn probabilities to help prioritize retention strategies.</li>
+  <li><strong>Primary Churn Drivers:</strong> Competitor offerings and dissatisfaction with product reliability were the top reasons for churn.</li>
+  <li><strong>Customer Segmentation:</strong> Customers with month-to-month contracts showed significantly higher churn rates, indicating a need for loyalty-focused strategies.</li>
+  <li><strong>Retention Strategies:</strong> Highlighted opportunities to improve network reliability and provide incentives for long-term contracts.</li>
+  <li><strong>Predictive Insights:</strong> Random Forest predictions helped identify at-risk customers, enabling targeted retention campaigns.</li>
 </ul>
 
 <h2>🛠️ <strong>Tools & Technologies Used</strong></h2>
@@ -86,7 +86,9 @@ This project focuses on analysing customer churn for a business using a data-dri
 </ul>
 
 <h2>📜 <strong>Conclusion</strong></h2>
-<p>This project highlights my ability to combine data engineering, visualization, and machine learning to solve a critical business problem. The insights and predictions provided empower stakeholders to make informed decisions and improve customer retention.</p>
+<p>
+This project highlights my expertise in data engineering, visualization, and machine learning to solve critical business problems. By identifying churn drivers and predicting at-risk customers, the project demonstrates my ability to bridge data insights with actionable strategies for customer retention.
+</p>
 
 <p align="center">&copy; 2025 Ecem Bayındır. All rights reserved.</p>
 
