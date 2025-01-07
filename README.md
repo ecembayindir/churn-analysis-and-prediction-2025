@@ -40,6 +40,10 @@ This project focuses on analysing customer churn for a business using a data-dri
     <img src="https://img.shields.io/badge/sql-F29111?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
     <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+    <img src="https://img.shields.io/badge/Random_Forest-FFD700?style=for-the-badge" alt="Random Forest"/>
+    <img src="https://img.shields.io/badge/Matplotlib-ff5733?style=for-the-badge" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/Seaborn-007ACC?style=for-the-badge" alt="Seaborn"/>
 </div>
 
 <h2>📂 <strong>Repository Structure</strong></h2>
@@ -58,10 +62,12 @@ This project focuses on analysing customer churn for a business using a data-dri
 </pre>
 
 <h2>📊 <strong>Key Visuals & Insights</strong></h2>
-<p>Explore the full Tableau dashboard via the link below:</p>
+<p>Explore the full Tableau dashboard via the button below:</p>
 <div align="center">
-    <a href="https://public.tableau.com/views/ChurnAnalysisandPrediction2025_17362583805820/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-        <img src="https://img.shields.io/badge/View%20Dashboard-Tableau-blue" alt="Tableau Dashboard"/>
+    <a href="https://public.tableau.com/views/ChurnAnalysisandPrediction2025_17362583805820/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" style="text-decoration: none;">
+        <button style="background-color: #E97627; color: white; padding: 15px 30px; font-size: 20px; border: none; border-radius: 10px; cursor: pointer;">
+            🌟 View Interactive Tableau Dashboard 🌟
+        </button>
     </a>
 </div>
 
